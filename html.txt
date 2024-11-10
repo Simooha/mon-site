@@ -1,0 +1,7 @@
+<!doctype html>
+<html>
+<body>
+    <h1>Hi everyone</h1>
+    <p>How are y all</p>
+</html>
+</body>
